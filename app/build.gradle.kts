@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.rn.recycler"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.rn.recycler"
